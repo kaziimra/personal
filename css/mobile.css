@@ -1,0 +1,71 @@
+@media screen and (max-width:600px) {
+   
+    
+    #menubtn{
+     
+        width: 20px;
+        height: 20px;
+        background-color;
+        
+     
+    }
+    #hm{
+
+        font-size: 13px;
+        line-height: 10px;
+
+            }
+
+            #src{
+                height: 30px;
+                
+            }
+            #btn1{
+                height: 30px;
+            }
+            #logo{
+                font-size:25px;
+                margin-top: 5px;
+            }
+            
+                #header {
+                    
+                    font-size: 40px;
+                    line-height: 25px;
+                }
+                #header3 {
+                    color: white;
+                    margin-top: 16px;
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+               #para{
+                    color:blue;
+                  
+                }
+
+                .icon {
+                    margin-left: 110px;
+                    margin-bottom: 20px;
+                    display: inline-block;
+                }
+                #contact-menu{
+                  
+                   font-size:20px;
+                   color: white;
+                }
+                #bdy{
+                    background-image: url("../img/background.jpg");
+                    background-attachment: fixed;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                }
+               
+
+
+            
+               
+                  
+           
+  
+}
